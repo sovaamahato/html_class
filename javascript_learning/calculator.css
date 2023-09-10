@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(120, 120, 180);
+}
+
+input{
+    font-size: 25px;
+    border-radius: 5px;
+    width: 90px;
+    height: 45px;
+    max-width: 20px 0;
+    background-color: rgb(209, 226, 245);
+}
+#answer{
+    width:270px ;
+   
+}
+input:hover{
+    cursor: pointer;
+}
+
+#clear{
+    width: 280px;
+    font-size: 18px;
+}
